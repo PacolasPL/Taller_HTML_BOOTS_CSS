@@ -1,0 +1,65 @@
+body {
+ background-image: url("https://wallpaperaccess.com/full/2772327.jpg");
+
+}
+h1 {
+ color: rgb(201, 105, 32);
+ padding-top: 5%;
+ padding-bottom: 5%;
+ padding-left: 30%;
+ padding-right: 30%;
+ text-align: center;
+ font-family: Cambria;
+ 
+}
+h4 {
+    color: rgb(201, 46, 32);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   }
+h3 {
+    font-size: 17px;
+    color: rgb(201, 46, 32);
+    padding-bottom: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+input{
+    padding: 0px;
+}
+p {
+ font-family: times;
+ font-size: 12px;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    
+}
+.text{
+   
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+p.justo {
+    font-family: times;
+    font-size: 16px;
+    text-align: justify;
+   }
+p.center {
+font-family: times;
+font-size: 16px;
+text-align: justify;
+padding-top: 30%;
+}
+p.centrado {
+    font-family: times;
+    font-size: 16px;
+    text-align: center;
+   }
+img{
+    width: 100% ;
+}
